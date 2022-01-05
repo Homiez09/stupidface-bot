@@ -1,1 +1,9 @@
+# environment [secret]
 .env
+
+# dump js file
+test.js
+
+# Folder
+/commands
+/node_modules
